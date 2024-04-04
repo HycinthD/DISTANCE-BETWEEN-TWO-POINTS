@@ -14,6 +14,11 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Register No: 212223240055
 ### PROGRAM:
 ```
+DISTANCE-BETWEEN-TWO-POINTS
+Developed By: Hycinth D
+Register No : 21222324005
+```
+```
 import math
 def dis(x1,x2,y1, y2):
     d=((x2-x1)**2+(y2-y1)**2)
