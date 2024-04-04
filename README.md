@@ -10,8 +10,7 @@ by applying distance formula.
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 
-### Name: Hycinth D
-### Register No: 212223240055
+
 ### PROGRAM:
 ```
 DISTANCE-BETWEEN-TWO-POINTS
